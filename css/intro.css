@@ -1,0 +1,29 @@
+.container {
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.text {
+    letter-spacing: -.02em;
+    line-height: 1.5em;
+    margin-left: -.045em;
+    font-weight: 700;
+    text-align: center;
+    background: 0 0;
+    display: block;
+    padding: 0;
+}
+
+.dud {
+  color: #cccccc;
+}
+
+.name {
+    font-family: 'Roboto Mono',sans-serif;
+    letter-spacing: -.02em;
+    background: 0 0;
+    color: #4a4a4a;
+}

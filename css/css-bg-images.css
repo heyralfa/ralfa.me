@@ -1,0 +1,139 @@
+#section01-image01 {
+    background-image: url(../img/1x/section01-image01_w960.jpg);
+}
+#section01-image02 {
+    background-image: url(../img/1x/section01-image02_w960.jpg);
+}
+#section01-image03 {
+    background-image: url(../img/1x/section01-image03_w960.jpg);
+}
+#section02-image01 {
+    background-image: url(../img/1x/section02-image01_w960.png);
+}
+#section02-image02 {
+    background-image: url(../img/1x/section02-image02_w960.png);
+}
+#section02-image03 {
+    background-image: url(../img/1x/section02-image03_w960.png);
+}
+#section02-image04 {
+    background-image: url(../img/1x/section02-image04_w960.png);
+}
+#section03-image01 {
+    background-image: url(../img/1x/section03-image01_w960.png);
+}
+#section03-image02 {
+    background-image: url(../img/1x/section03-image02_w960.png);
+}
+#section03-image03 {
+    background-image: url(../img/1x/section03-image03_w960.png);
+}
+@media only screen and (max-width: 767px) {
+    #section01-image01 {
+        background-image: url(../img/1x/section01-image01_w767.jpg);
+    }
+    #section01-image02 {
+        background-image: url(../img/1x/section01-image02_w767.jpg);
+    }
+    #section01-image03 {
+        background-image: url(../img/1x/section01-image03_w767.jpg);
+    }
+    #section02-image01 {
+        background-image: url(../img/1x/section02-image01_w767.png);
+    }
+    #section02-image02 {
+        background-image: url(../img/1x/section02-image02_w767.png);
+    }
+    #section02-image03 {
+        background-image: url(../img/1x/section02-image03_w767.png);
+    }
+    #section02-image04 {
+        background-image: url(../img/1x/section02-image04_w767.png);
+    }
+    #section03-image01 {
+        background-image: url(../img/1x/section03-image01_w767.png);
+    }
+    #section03-image02 {
+        background-image: url(../img/1x/section03-image02_w767.png);
+    }
+    #section03-image03 {
+        background-image: url(../img/1x/section03-image03_w767.png);
+    }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (min--moz-device-pixel-ratio: 2),
+    only screen and (-moz-min-device-pixel-ratio: 2),
+    only screen and (-o-min-device-pixel-ratio: 2 / 1),
+    only screen and (min-device-pixel-ratio: 2),
+    only screen and (min-resolution: 192dpi),
+    only screen and (min-resolution: 2dppx) {
+    #section01-image01 {
+        background-image: url(../img/2x/section01-image01_w960_2x.jpg);
+    }
+    #section01-image02 {
+        background-image: url(../img/2x/section01-image02_w960_2x.jpg);
+    }
+    #section01-image03 {
+        background-image: url(../img/2x/section01-image03_w960_2x.jpg);
+    }
+    #section02-image01 {
+        background-image: url(../img/2x/section02-image01_w960_2x.png);
+    }
+    #section02-image02 {
+        background-image: url(../img/2x/section02-image02_w960_2x.png);
+    }
+    #section02-image03 {
+        background-image: url(../img/2x/section02-image03_w960_2x.png);
+    }
+    #section02-image04 {
+        background-image: url(../img/2x/section02-image04_w960_2x.png);
+    }
+    #section03-image01 {
+        background-image: url(../img/2x/section03-image01_w960_2x.png);
+    }
+    #section03-image02 {
+        background-image: url(../img/2x/section03-image02_w960_2x.png);
+    }
+    #section03-image03 {
+        background-image: url(../img/2x/section03-image03_w960_2x.png);
+    }
+}
+
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (max-width: 767px) and (min--moz-device-pixel-ratio: 2),
+    only screen and (max-width: 767px) and (-moz-min-device-pixel-ratio: 2),
+    only screen and (max-width: 767px) and (-o-min-device-pixel-ratio: 2 / 1),
+    only screen and (max-width: 767px) and (min-device-pixel-ratio: 2),
+    only screen and (max-width: 767px) and (min-resolution: 192dpi),
+    only screen and (max-width: 767px) and (min-resolution: 2dppx) {
+    #section01-image01 {
+        background-image: url(../img/2x/section01-image01_w767_2x.jpg);
+    }
+    #section01-image02 {
+        background-image: url(../img/2x/section01-image02_w767_2x.jpg);
+    }
+    #section01-image03 {
+        background-image: url(../img/2x/section01-image03_w767_2x.jpg);
+    }
+    #section02-image01 {
+        background-image: url(../img/2x/section02-image01_w767_2x.png);
+    }
+    #section02-image02 {
+        background-image: url(../img/2x/section02-image02_w767_2x.png);
+    }
+    #section02-image03 {
+        background-image: url(../img/2x/section02-image03_w767_2x.png);
+    }
+    #section02-image04 {
+        background-image: url(../img/2x/section02-image04_w767_2x.png);
+    }
+    #section03-image01 {
+        background-image: url(../img/2x/section03-image01_w767_2x.png);
+    }
+    #section03-image02 {
+        background-image: url(../img/2x/section03-image02_w767_2x.png);
+    }
+    #section03-image03 {
+        background-image: url(../img/2x/section03-image03_w767_2x.png);
+    }
+}
