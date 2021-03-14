@@ -311,7 +311,6 @@ section.teaser .timeline-circle-small:before {
     height: 100%;
     overflow: hidden;
     cursor: default;
-    vertical-align: top;
     -ms-filter: "alpha(Opacity=0)";
     filter: alpha(opacity=0);
     -moz-opacity: 0;
@@ -596,7 +595,6 @@ section.teaser .timeline-circle-small:before {
         top: 0;
         left: 0;
         font-family: Elusive-Icons;
-        speak: none;
         font-style: normal;
         font-weight: 400;
         font-variant: normal;
